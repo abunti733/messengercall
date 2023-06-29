@@ -1,0 +1,40 @@
+*{
+    padding: 0;
+    margin: 0;
+   
+}
+
+.row{
+    text-align: center;
+    width: 200px;
+    height: 400px;
+    margin: 300px auto;
+    padding: 20px;
+    background: #a09b9b;
+    border-radius:6px ;
+    box-shadow: 1px 1px 20px cyan;
+    
+}
+
+.row h3{
+    font-size: 23px;
+    color: #e9e1e1;
+    
+}
+.row p{
+    font-size: 12px;
+    color:#e9e1e1;
+    margin: 10px;
+}
+.row .img{
+    display: flex;
+    justify-content: space-between;
+    margin: 70px 20px;
+   
+}
+.logo img{
+    width: 80px;
+    height: 80px;
+    margin: 25px 30px;
+    border-radius:50px ;
+}
